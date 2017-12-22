@@ -27,14 +27,11 @@ pac.py ：pac降维方法，(维度太低不推荐使用，高维度强烈推荐
 使用：
 环境问题
 python环境所用到的包在config/requirements.txt
-opencv环境配置推荐：
-[Google](http://www.google.com/)
-[Raspberry3配置openCv3](https://github.com/zibuyu1995/imageSearch/wiki/Raspberry3-%E6%90%AD%E5%BB%BAopencv3)
-[https://github.com/zibuyu1995/imageSearch/wiki/Raspberry3-%E6%90%AD%E5%BB%BAopencv3](Raspberry3配置openCv3)
+Raspberry3配置openCv3：
+https://github.com/zibuyu1995/imageSearch/wiki/Raspberry3-%E6%90%AD%E5%BB%BAopencv3)
 
 数据集：
-[假期数据集](ftp://ftp.inrialpes.fr/pub/lear/douze/data/jpg1.tar.gz)
-[ftp://ftp.inrialpes.fr/pub/lear/douze/data/jpg1.tar.gz]()
+假期数据集: ftp://ftp.inrialpes.fr/pub/lear/douze/data/jpg1.tar.gz
 可以用config/cutimg.py来批量剪切图片 
 推荐：400*300
 存放在./static/dataset
