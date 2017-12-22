@@ -28,6 +28,7 @@ pac.py ：pac降维方法，(维度太低不推荐使用，高维度强烈推荐
 环境问题
 python环境所用到的包在config/requirements.txt
 opencv环境配置推荐：
+[Google](http://www.google.com/)
 [Raspberry3配置openCv3](https://github.com/zibuyu1995/imageSearch/wiki/Raspberry3-%E6%90%AD%E5%BB%BAopencv3)
 [https://github.com/zibuyu1995/imageSearch/wiki/Raspberry3-%E6%90%AD%E5%BB%BAopencv3](Raspberry3配置openCv3)
 
